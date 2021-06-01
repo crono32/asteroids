@@ -1,0 +1,7 @@
+.vs/
+build/
+intermediate/
+Asteroids.sln
+Asteroids.vcxproj
+Asteroids.vcxproj.filters
+Asteroids.vcxproj.user
